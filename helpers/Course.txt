@@ -1,0 +1,8 @@
+ Welcome to the IT Academy!!! 
+ Please feel free to go through the Course Curriculum 
+ 
+  1. Big picture: Software Development Life Cycle 
+  2. Fundamental of web development 
+  3. Python Programming 
+  4. Frontend library: React 
+  5. Capstone project: Final project
